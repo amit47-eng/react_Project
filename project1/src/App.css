@@ -1,0 +1,7 @@
+.head_intro{
+    background-color: lightblue;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
